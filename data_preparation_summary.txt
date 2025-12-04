@@ -1,0 +1,10 @@
+DATA PREPARATION SUMMARY
+================================================================================
+
+Total Participants: 367
+Urban: 207
+Rural: 160
+Mean Age: {'17-19': 195, '14-16': 133, '10-13': 39}
+BMI Categories: {'Normal': 266, 'Underweight': 55, 'Overweight': 37, 'Obese': 9}
+Mean DDS: 9.63 ± 0.86
+DDS Range: 3 - 10

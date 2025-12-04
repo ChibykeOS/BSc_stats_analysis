@@ -1,0 +1,331 @@
+FULL DATA ANALYSIS PLAN (TAILORED TO THE DATA COLLECTED BY THE QUESTIONNAIRE)
+This compares Rural vs Urban adolescent girls in:
+•
+Socio-demographic characteristics
+•
+Nutritional status (Anthropometrics)
+•
+Dietary patterns (Food Frequency Questionnaire)
+•
+Factors affecting diet
+•
+Dietary habits
+Each section needs specific statistical treatment.
+SECTION A — Socio-Demographic Characteristics
+1. Variables
+All variables here are categorical except “number of family members”.
+Examples:
+•
+Residence (urban/rural)
+•
+Age groups
+•
+Living arrangement
+•
+Education level
+•
+Occupation of parents
+•
+Income
+•
+Religion
+•
+Ethnicity
+2. Descriptive Statistics
+Present:
+•
+Frequencies (n)
+•
+Percentages (%)
+•
+Pie/Bar charts
+3. Comparative Analysis (Urban vs Rural)
+I will Use:
+Chi-square (χ²) test
+To compare if socio-demographic factors significantly differ by location.
+Examples:
+•
+Does parental occupation differ between rural and urban girls?
+•
+Is family income significantly different between groups?
+•
+Are girls in rural areas more likely to live with grandparents?
+Why Chi-square? These are categorical variables — χ² is the correct test.
+SECTION B — Anthropometry (Weight, Height, BMI)
+1. Descriptive Statistics
+For weight, height, BMI:
+•
+Mean ± SD
+•
+Minimum, maximum
+•
+BMI classification
+o
+Underweight
+o
+Normal
+o
+Overweight
+o
+Obese
+2. Comparative Analysis
+I will Use:
+Independent t-test
+Compare mean BMI between rural and urban girls.
+Use:
+Chi-square test
+Compare prevalence of BMI categories.
+3. Additional Nutritional Indicators
+If possible:
+•
+Compute BMI-for-age Z-score (BAZ) using WHO charts
+•
+Classify:
+o
+Thinness
+o
+Normal
+o
+Overweight
+o
+Obesity
+This boosts the academic quality of this project.
+SECTION C — Dietary Assessment (Food Frequency Questionnaire)
+Your FFQ includes:
+•
+Dairy
+•
+Tubers
+•
+Legumes
+•
+Cereals
+•
+Vegetables
+•
+Fruits
+•
+Meats
+•
+Snacks
+•
+Drinks
+•
+Spices
+Each item has 6 frequency levels:
+•
+Daily
+•
+Once per week
+•
+2–3 times per week
+•
+4–6 times per week
+•
+Occasionally
+•
+Never
+1. Cleaning and Coding
+Assign numerical codes:
+•
+Daily = 6
+•
+4–6 times per week = 5
+•
+2–3 times per week = 4
+•
+Once per week = 3
+•
+Occasionally = 2
+•
+Never = 1
+2. Descriptive Statistics
+•
+Percentage of girls consuming each food group at each frequency
+•
+Consumption patterns charts (cluster bar charts)
+3. Comparative Analysis
+Chi-square test
+To compare frequency categories between rural and urban girls.
+Examples:
+•
+Are fruits consumed more frequently in urban than rural girls?
+•
+Do rural girls consume tubers more often?
+•
+Are soft drinks more common among urban girls?
+4. Dietary Diversity Score (Highly recommended)
+I will create a Dietary Diversity Score (DDS) by counting how many food groups each respondent consumed at least "Once per week".
+Then:
+Use t-test
+Compare DDS (diet quality) between rural and urban girls.
+This adds scientific weight to your project.
+SECTION D — Factors Affecting Dietary Habits
+Variables include:
+•
+Food availability
+•
+Preferences
+•
+Culture
+•
+Socio-economic status
+•
+Nutritional knowledge
+•
+Geography
+•
+Peer influence
+•
+Cost of foods
+•
+Health status
+•
+Parents’ education
+•
+Seasons
+Each is measured on:
+•
+Strongly Agree
+•
+Agree
+•
+Disagree
+•
+Strongly Disagree
+1. Descriptive Statistics
+•
+Frequencies and percentages
+•
+Bar charts (Likert scale)
+2. Comparative Analysis
+Chi-square test
+To compare differences between rural vs urban girls on:
+•
+Whether peer influence affects diet
+•
+Whether food cost impacts diet
+•
+Whether nutritional knowledge is a significant factor
+•
+Whether seasonality affects food consumption
+3. Optional but powerful:
+Spearman correlation
+Check associations between diet-affecting factors and:
+•
+DDS (dietary diversity score)
+•
+BMI
+Example:
+•
+Does socioeconomic status correlate with better diet?
+•
+Does nutritional knowledge relate to BMI?
+SECTION E — Dietary Habits
+Variables include:
+•
+Number of meals per day
+•
+Meal skipping
+•
+Meal skipped
+•
+Reasons for skipping
+•
+Sources of food
+•
+Eating-out frequency
+•
+Preference for snacks vs food
+1. Descriptive Statistics
+•
+Percentages for meal patterns
+•
+Most common reasons for skipping meals
+•
+Most common food sources
+•
+Eating-out patterns
+•
+Snack preferences
+2. Comparative Analysis
+Chi-square test
+For:
+•
+Meal skipping (rural vs urban)
+•
+Number of meals daily
+•
+Eating-out frequency
+•
+Preference for snacks
+•
+Reasons for meal skipping
+Example comparisons:
+•
+Are urban girls more likely to eat out?
+•
+Do rural girls skip breakfast more?
+•
+Are snacks more preferred by urban girls?
+HIGH-IMPACT SUMMARY TABLE
+Study Component
+Variable Type
+Statistical Test
+Purpose
+Socio-demographics
+Categorical
+Chi-square
+Compare rural vs urban background
+Anthropometry
+Continuous
+t-test
+Compare mean BMI, height, weight
+BMI Categories
+Categorical
+Chi-square
+Compare nutritional status prevalence
+Food Frequency
+Ordinal
+Chi-square
+Compare consumption patterns
+Dietary Diversity Score
+Continuous
+t-test
+Compare overall diet quality
+Study Component
+Variable Type
+Statistical Test
+Purpose
+Factors Affecting Diet
+Likert scale
+Chi-square
+Assess differences in dietary influences
+Dietary Habits
+Categorical
+Chi-square
+Compare meal patterns & habits
+Optional Advanced Analysis (For A+ Score)
+1. Logistic Regression
+Outcome:
+•
+Undernutrition (yes/no)
+Predictors:
+•
+Income
+•
+Eating habits
+•
+Diet diversity
+•
+Peer influence
+•
+Meal skipping
+2. Cluster Analysis
+To identify dietary pattern types:
+•
+“Traditional diet”
+•
+“Modern snack-based diet”
+•
+“Mixed diet”

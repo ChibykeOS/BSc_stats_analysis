@@ -1,0 +1,43 @@
+
+### Significant Demographics
+          Variable  p-value Significance
+Living Arrangement   0.0007          ***
+Guardian Education   0.0186            *
+ Father Occupation   0.0000          ***
+ Mother Occupation   0.0150            *
+    Monthly Income   0.0000          ***
+
+### Anthropometry T-Tests
+   Variable  Rural Mean  Urban Mean  p-value Significance
+Weight (kg)       53.56       55.47   0.0639           ns
+ Height (m)        1.59        1.58   0.3662           ns
+        BMI       21.16       22.30   0.0059           **
+
+### BMI Categories
+                     Test  Chi-square  df  p-value Significance            Interpretation
+BMI Category Distribution       7.783   3   0.0507           ns No significant difference
+
+### DDS T-Test
+        Comparison  Urban Mean  Rural Mean  Mean Difference  95% CI Lower  95% CI Upper  t-statistic  p-value Significance         Interpretation
+Urban vs Rural DDS        9.78        9.44             0.33          0.15          0.52        3.751   0.0002          *** Significant difference
+
+### Significant Diet Factors
+        Factor  p-value Significance
+Peer Influence   0.0317            *
+ Health Status   0.0118            *
+
+### Significant Habits
+                   Variable  p-value Significance
+              Meals per Day   0.0081           **
+              Meal Skipping   0.0166            *
+               Meal Skipped   0.0000          ***
+        Reason for Skipping   0.0000          ***
+                Food Source   0.0000          ***
+       Eating Out Frequency   0.0000          ***
+Reason for Snack Preference   0.0002          ***
+
+### Cluster Profiles
+  Cluster   N Percentage  Dairy  Tubers  Legumes  Cereals  Meats  Vegetables  Fruits  Snacks Urban_% Rural_%
+Cluster 1  62      17.3%   4.29    3.68     3.44     3.74   3.67        3.80    3.52    4.35   80.6%   19.4%
+Cluster 2  78      21.7%   2.57    2.30     2.50     2.41   2.68        2.60    2.44    3.18   41.0%   59.0%
+Cluster 3 219      61.0%   3.10    3.03     3.21     2.88   3.17        3.23    2.92    3.67   56.6%   43.4%
