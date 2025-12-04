@@ -1,0 +1,13 @@
+# Abstract
+
+**Title:** Comparative Analysis of Nutritional Status and Dietary Patterns of Adolescent Girls in Rural and Urban Areas
+
+**Background:** Adolescence is a critical period of growth and development where nutritional needs are high. Rapid urbanization in developing countries is driving a "nutrition transition," potentially leading to a double burden of malnutrition. This study aimed to assess and compare the nutritional status, dietary patterns, and factors influencing dietary habits of adolescent girls in rural and urban settings.
+
+**Methods:** A cross-sectional comparative study was conducted involving 367 adolescent girls (207 urban, 160 rural). Data were collected using a structured questionnaire covering socio-demographic characteristics, a Food Frequency Questionnaire (FFQ), and anthropometric measurements (weight and height). Body Mass Index (BMI) was calculated to assess nutritional status. Dietary Diversity Score (DDS) and Cluster Analysis were used to evaluate dietary patterns. Statistical analyses, including Chi-square tests and independent t-tests, were performed to determine significant differences between the two groups.
+
+**Results:** The study revealed distinct socio-economic and nutritional disparities. Urban adolescent girls had a significantly higher mean BMI (22.30 ± SD kg/m²) compared to rural girls (21.16 ± SD kg/m²) (*p* = 0.006), indicating an emerging risk of overweight and obesity in the urban population. While urban girls had a significantly higher Dietary Diversity Score (9.78 vs. 9.44, *p* < 0.001), cluster analysis identified a "Modern/Affluent Diet" prevalent in urban areas (80.6%), characterized by high consumption of snacks, dairy, and processed foods. Conversely, rural girls were predominant in the "Limited Diet" cluster (59.0%), reflecting dietary monotony. Significant differences were also observed in eating habits, with urban girls reporting higher frequencies of eating out (*p* < 0.001) and meal skipping (*p* = 0.017) compared to their rural counterparts.
+
+**Conclusion:** The findings confirm the existence of a double burden of malnutrition, with urban girls facing risks associated with overnutrition and "Westernized" dietary habits, while rural girls remain vulnerable to dietary insufficiency. Interventions should be context-specific: focusing on nutrition education regarding healthy food choices and physical activity for urban adolescents, and improving food security and dietary diversity through school feeding programs for rural populations.
+
+**Keywords:** Adolescent girls, Nutritional status, Dietary patterns, Urban-Rural comparison, BMI, Dietary Diversity.
