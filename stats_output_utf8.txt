@@ -1,0 +1,239 @@
+
+--- Section A (Sociodemographic) ---
+                   Variable               Category  Overall_n  Overall_%  Urban_n  Urban_%  Rural_n  Rural_%
+0                 Age Group                  17-19        195       53.1      114     55.1       81     50.6
+1                 Age Group                  14-16        133       36.2       72     34.8       61     38.1
+2                 Age Group                  10-13         39       10.6       21     10.1       18     11.2
+3        Living Arrangement                Parents        262       71.4      161     77.8      101     63.1
+4        Living Arrangement                Mother          37       10.1       19      9.2       18     11.2
+5        Living Arrangement                 Others         36        9.8       13      6.3       23     14.4
+6        Living Arrangement                 Father         16        4.4        9      4.3        7      4.4
+7        Living Arrangement           Grandmother           9        2.5        0      0.0        9      5.6
+8        Living Arrangement            Grandfather          7        1.9        5      2.4        2      1.2
+9               Family Size                      5         79       21.5       46     22.2       33     20.6
+10              Family Size                      4         78       21.3       50     24.2       28     17.5
+11              Family Size                      3         57       15.5       31     15.0       26     16.2
+12              Family Size                      6         53       14.4       26     12.6       27     16.9
+13              Family Size                      2         33        9.0       16      7.7       17     10.6
+14              Family Size                      7         29        7.9       16      7.7       13      8.1
+15              Family Size                      8         14        3.8        4      1.9       10      6.2
+16              Family Size                      1          9        2.5        6      2.9        3      1.9
+17              Family Size                      9          7        1.9        6      2.9        1      0.6
+18              Family Size                     10          4        1.1        3      1.4        1      0.6
+19              Family Size                     15          2        0.5        2      1.0        0      0.0
+20              Family Size                     12          1        0.3        1      0.5        0      0.0
+21              Family Size                     13          1        0.3        0      0.0        1      0.6
+22       Guardian Education               Tertiary        208       56.7      130     62.8       78     48.8
+23       Guardian Education              Secondary        116       31.6       59     28.5       57     35.6
+24       Guardian Education                Primary         35        9.5       13      6.3       22     13.8
+25       Guardian Education    No formal education          8        2.2        5      2.4        3      1.9
+26        Father Occupation          Self-employed        155       42.2       83     40.1       72     45.0
+27        Father Occupation                 Trader         81       22.1       35     16.9       46     28.7
+28        Father Occupation          Civil Servant         70       19.1       62     30.0        8      5.0
+29        Father Occupation                 Farmer         50       13.6       19      9.2       31     19.4
+30        Father Occupation                   none         11        3.0        8      3.9        3      1.9
+31        Mother Occupation                 Trader        120       32.7       56     27.1       64     40.0
+32        Mother Occupation          Self-employed        105       28.6       70     33.8       35     21.9
+33        Mother Occupation          Civil Servant        104       28.3       64     30.9       40     25.0
+34        Mother Occupation                 Farmer         27        7.4       12      5.8       15      9.4
+35        Mother Occupation                   none         11        3.0        5      2.4        6      3.8
+36  Parental Marital Status               Together        297       80.9      168     81.2      129     80.6
+37  Parental Marital Status        one parent dead         30        8.2       18      8.7       12      7.5
+38  Parental Marital Status              Separated         27        7.4       17      8.2       10      6.2
+39  Parental Marital Status  Both parents are dead          7        1.9        1      0.5        6      3.8
+40  Parental Marital Status               Divorced          6        1.6        3      1.4        3      1.9
+41           Monthly Income               >100,000        229       62.4      146     70.5       83     51.9
+42           Monthly Income         31,000-100,000        101       27.5       52     25.1       49     30.6
+43           Monthly Income                <30,000         37       10.1        9      4.3       28     17.5
+44                 Religion           Christianity        361       98.4      205     99.0      156     97.5
+45                 Religion            Traditional          4        1.1        1      0.5        3      1.9
+46                 Religion                  Islam          2        0.5        1      0.5        1      0.6
+47                Ethnicity                   Igbo        337       91.8      197     95.2      140     87.5
+48                Ethnicity                 Yoruba         21        5.7        8      3.9       13      8.1
+49                Ethnicity                  Hausa          3        0.8        0      0.0        3      1.9
+50                Ethnicity                  Igala          3        0.8        1      0.5        2      1.2
+51                Ethnicity                 Etsako          2        0.5        1      0.5        1      0.6
+52                Ethnicity                 Eghene          1        0.3        0      0.0        1      0.6
+
+--- Section B (Anthropometry) ---
+      Variable    Group    N   Mean     SD    Min    Max  Median
+0  Weight (kg)  Overall  367  54.64   9.81  31.00  89.00   53.90
+1  Weight (kg)    Urban  207  55.47  10.18  35.00  89.00   54.30
+2  Weight (kg)    Rural  160  53.56   9.24  31.00  83.80   53.55
+3   Height (m)  Overall  367   1.58   0.09   1.20   1.98    1.59
+4   Height (m)    Urban  207   1.58   0.09   1.20   1.98    1.59
+5   Height (m)    Rural  160   1.59   0.08   1.33   1.77    1.60
+6          BMI  Overall  367  21.80   3.96  12.11  50.30   21.46
+7          BMI    Urban  207  22.30   4.58  12.11  50.30   21.76
+8          BMI    Rural  160  21.16   2.85  14.74  30.08   21.00
+
+--- Section C (Dietary Patterns) ---
+   Food Group  Overall Mean Score  Urban Mean Score  Rural Mean Score  Difference
+0       Dairy                3.19              3.36              2.96        0.40
+1      Tubers                2.98              2.97              3.00       -0.03
+2     Legumes                3.09              3.11              3.07        0.04
+3     Cereals                2.84              2.94              2.71        0.23
+4       Meats                3.15              3.28              2.98        0.29
+5  Vegetables                3.15              3.19              3.08        0.12
+6      Fruits                2.92              2.99              2.82        0.16
+7      Spices                3.40              3.53              3.25        0.29
+8      Drinks                2.78              2.87              2.67        0.20
+9      Snacks                3.61              3.75              3.44        0.31
+
+--- Advanced Analysis ---
+             Predictor  Coefficient  Odds Ratio  Log Odds
+0      Residence_coded       -0.452       0.637    -0.452
+1                  DDS       -0.049       0.953    -0.049
+2  Meal_skipping_coded        0.270       1.310     0.270
+
+--- Section D (Diet Factors) ---
+                    Factor          Response  Overall_n  Overall_%  Urban_n  Urban_%  Rural_n  Rural_%
+0        Food Availability                SA        251       68.4      133     64.3      118     73.8
+1        Food Availability                 A         87       23.7       54     26.1       33     20.6
+2        Food Availability                 D         21        5.7       13      6.3        8      5.0
+3        Food Availability                SD          5        1.4        5      2.4        0      0.0
+4   Individual Preferences                SA        169       46.0      102     49.3       67     41.9
+5   Individual Preferences                 A        152       41.4       83     40.1       69     43.1
+6   Individual Preferences                 D         25        6.8       14      6.8       11      6.9
+7   Individual Preferences                SD         18        4.9        6      2.9       12      7.5
+8        Culture/Tradition                 A        155       42.2       83     40.1       72     45.0
+9        Culture/Tradition                SA         84       22.9       51     24.6       33     20.6
+10       Culture/Tradition                SD         65       17.7       43     20.8       22     13.8
+11       Culture/Tradition                 D         59       16.1       26     12.6       33     20.6
+12   Socio-economic Status                SA        141       38.4       82     39.6       59     36.9
+13   Socio-economic Status                 A        138       37.6       78     37.7       60     37.5
+14   Socio-economic Status                 D         50       13.6       27     13.0       23     14.4
+15   Socio-economic Status                SD         33        9.0       17      8.2       16     10.0
+16   Socio-economic Status              none          1        0.3        1      0.5        0      0.0
+17   Nutritional Knowledge                 A        142       38.7       71     34.3       71     44.4
+18   Nutritional Knowledge                SA        139       37.9       84     40.6       55     34.4
+19   Nutritional Knowledge                 D         57       15.5       35     16.9       22     13.8
+20   Nutritional Knowledge                SD         24        6.5       15      7.2        9      5.6
+21   Geographical Location                 A        184       50.1      100     48.3       84     52.5
+22   Geographical Location                SA        100       27.2       61     29.5       39     24.4
+23   Geographical Location                 D         49       13.4       27     13.0       22     13.8
+24   Geographical Location                SD         31        8.4       17      8.2       14      8.8
+25          Peer Influence                 D        116       31.6       59     28.5       57     35.6
+26          Peer Influence                SD        108       29.4       54     26.1       54     33.8
+27          Peer Influence                 A         84       22.9       53     25.6       31     19.4
+28          Peer Influence                SA         52       14.2       36     17.4       16     10.0
+29          Peer Influence              none          3        0.8        3      1.4        0      0.0
+30            Cost of Food                SA        198       54.0      102     49.3       96     60.0
+31            Cost of Food                 A        117       31.9       70     33.8       47     29.4
+32            Cost of Food                 D         31        8.4       21     10.1       10      6.2
+33            Cost of Food                SD         17        4.6       10      4.8        7      4.4
+34           Health Status                 A        150       40.9       71     34.3       79     49.4
+35           Health Status                SA        137       37.3       84     40.6       53     33.1
+36           Health Status                 D         38       10.4       21     10.1       17     10.6
+37           Health Status                SD         38       10.4       28     13.5       10      6.2
+38      Parental Education                 A        124       33.8       66     31.9       58     36.2
+39      Parental Education                 D         86       23.4       47     22.7       39     24.4
+40      Parental Education                SD         82       22.3       48     23.2       34     21.2
+41      Parental Education                SA         73       19.9       44     21.3       29     18.1
+42             Seasonality                SA        162       44.1       97     46.9       65     40.6
+43             Seasonality                 A        120       32.7       61     29.5       59     36.9
+44             Seasonality                SD         42       11.4       22     10.6       20     12.5
+45             Seasonality                 D         40       10.9       24     11.6       16     10.0
+46             Seasonality  thstrongly agree          1        0.3        1      0.5        0      0.0
+
+--- Section E (Dietary Habits) ---
+                       Variable                                                           Category  Overall_n  Overall_%  Urban_n  Urban_%  Rural_n  Rural_%
+0                 Meals per Day                                                                  3        154       42.0       97     46.9       57     35.6
+1                 Meals per Day                                                                  2        103       28.1       43     20.8       60     37.5
+2                 Meals per Day                                                                  4         50       13.6       27     13.0       23     14.4
+3                 Meals per Day                                                                  1         20        5.4       11      5.3        9      5.6
+4                 Meals per Day                                                              three         14        3.8       12      5.8        2      1.2
+5                 Meals per Day                                                                two          8        2.2        7      3.4        1      0.6
+6                 Meals per Day                                                                  5          6        1.6        4      1.9        2      1.2
+7                 Meals per Day                                                               four          4        1.1        3      1.4        1      0.6
+8                 Meals per Day                                                     more than four          1        0.3        1      0.5        0      0.0
+9                 Meals per Day                                                                one          1        0.3        1      0.5        0      0.0
+10                Meal Skipping                                                                Yes        190       51.8       97     46.9       93     58.1
+11                Meal Skipping                                                                 No        170       46.3      109     52.7       61     38.1
+12                 Meal Skipped                                                               none        110       30.0       95     45.9       15      9.4
+13                 Meal Skipped                                                          breakfast         54       14.7       42     20.3       12      7.5
+14                 Meal Skipped                                                          Breakfast         51       13.9       13      6.3       38     23.8
+15                 Meal Skipped                                                              lunch         43       11.7       36     17.4        7      4.4
+16                 Meal Skipped                                                              Lunch         36        9.8        7      3.4       29     18.1
+17                 Meal Skipped                                                         Breakfast          12        3.3        3      1.4        9      5.6
+18                 Meal Skipped                                                             Dinner          8        2.2        3      1.4        5      3.1
+19                 Meal Skipped                                                             dinner          5        1.4        5      2.4        0      0.0
+20                 Meal Skipped                                                             Lunch           3        0.8        0      0.0        3      1.9
+21          Reason for Skipping                                                         not hungry         66       18.0       54     26.1       12      7.5
+22          Reason for Skipping                                                  No food available         35        9.5        6      2.9       29     18.1
+23          Reason for Skipping                                                         Not hungry         33        9.0        6      2.9       27     16.9
+24          Reason for Skipping                                                               none         33        9.0       27     13.0        6      3.8
+25          Reason for Skipping                                             not enough time to eat         26        7.1       21     10.1        5      3.1
+26          Reason for Skipping                                              To be early to school         20        5.4        7      3.4       13      8.1
+27          Reason for Skipping                                             Not enough time to eat         17        4.6        4      1.9       13      8.1
+28          Reason for Skipping                                            To maintain body figure         16        4.4        6      2.9       10      6.2
+29          Reason for Skipping                                                  no food available         16        4.4       13      6.3        3      1.9
+30          Reason for Skipping                                              to be early to school         13        3.5       10      4.8        3      1.9
+31          Reason for Skipping                                                 No food available          11        3.0        3      1.4        8      5.0
+32          Reason for Skipping                                            to maintain body figure          7        1.9        6      2.9        1      0.6
+33          Reason for Skipping                                                  I do no skip meal          7        1.9        6      2.9        1      0.6
+34          Reason for Skipping                                                     to lose weight          6        1.6        5      2.4        1      0.6
+35          Reason for Skipping                                                        Not hungry           4        1.1        1      0.5        3      1.9
+36          Reason for Skipping                                                no skipping of meal          3        0.8        1      0.5        2      1.2
+37          Reason for Skipping                                                  not enough to eat          3        0.8        2      1.0        1      0.6
+38          Reason for Skipping                                                 I don’t miss meals          2        0.5        2      1.0        0      0.0
+39          Reason for Skipping                                          Others(I don’t skip meal)          2        0.5        0      0.0        2      1.2
+40          Reason for Skipping                                                               busy          2        0.5        2      1.0        0      0.0
+41          Reason for Skipping                                                    not enough time          1        0.3        1      0.5        0      0.0
+42          Reason for Skipping                                                    early to school          1        0.3        1      0.5        0      0.0
+43          Reason for Skipping                                               maintain body figure          1        0.3        1      0.5        0      0.0
+44          Reason for Skipping                                                           no money          1        0.3        1      0.5        0      0.0
+45          Reason for Skipping                                                 I don't skip meals          1        0.3        0      0.0        1      0.6
+46          Reason for Skipping                                                 I don’t skip meals          1        0.3        1      0.5        0      0.0
+47          Reason for Skipping                                              to be early tp school          1        0.3        1      0.5        0      0.0
+48          Reason for Skipping                                                    Others(I don’t)          1        0.3        0      0.0        1      0.6
+49                  Food Source                                                food cooked at home        109       29.7       86     41.5       23     14.4
+50                  Food Source                                               Food cooked at home         106       28.9       23     11.1       83     51.9
+51                  Food Source                                                    food coked home         53       14.4       43     20.8       10      6.2
+52                  Food Source                                                        restaurants         25        6.8       19      9.2        6      3.8
+53                  Food Source                                                          home made         15        4.1       15      7.2        0      0.0
+54                  Food Source                                                Food cooked at home         13        3.5        4      1.9        9      5.6
+55                  Food Source                                                            vendors         12        3.3       10      4.8        2      1.2
+56                  Food Source                                                        Restaurants          9        2.5        2      1.0        7      4.4
+57                  Food Source                                                            Vendors          7        1.9        1      0.5        6      3.8
+58                  Food Source                                                             Snacks          3        0.8        1      0.5        2      1.2
+59                  Food Source                                                       Restaurants           3        0.8        1      0.5        2      1.2
+60                  Food Source                                              rFood cooked at home           2        0.5        0      0.0        2      1.2
+61                  Food Source                                                   food cooked homr          1        0.3        1      0.5        0      0.0
+62         Eating Out Frequency                                                             rarely         83       22.6       67     32.4       16     10.0
+63         Eating Out Frequency                                                                Occ         78       21.3       48     23.2       30     18.8
+64         Eating Out Frequency                                                             Rarely         70       19.1       15      7.2       55     34.4
+65         Eating Out Frequency                                                   2-3 times a week         32        8.7       17      8.2       15      9.4
+66         Eating Out Frequency                                                                 1x         25        6.8       19      9.2        6      3.8
+67         Eating Out Frequency                                                   4-6 times a week         13        3.5        9      4.3        4      2.5
+68         Eating Out Frequency                                                              Daily         13        3.5        4      1.9        9      5.6
+69         Eating Out Frequency                                                            Rarely           9        2.5        2      1.0        7      4.4
+70         Eating Out Frequency                                                        Once a week          9        2.5        3      1.4        6      3.8
+71         Eating Out Frequency                                                              daily          6        1.6        5      2.4        1      0.6
+72         Eating Out Frequency                                                             2-3wks          6        1.6        6      2.9        0      0.0
+73         Eating Out Frequency                                                           2-3x wks          5        1.4        5      2.4        0      0.0
+74         Eating Out Frequency                                                            2-3 wks          3        0.8        1      0.5        2      1.2
+75         Eating Out Frequency                                                             Daily           2        0.5        1      0.5        1      0.6
+76         Eating Out Frequency                                                           4-6x wks          1        0.3        1      0.5        0      0.0
+77         Eating Out Frequency                                                   2-3 times weekly          1        0.3        1      0.5        0      0.0
+78             Snack Preference                                                                 No        295       80.4      164     79.2      131     81.9
+79             Snack Preference                                                                Yes         64       17.4       41     19.8       23     14.4
+80  Reason for Snack Preference                                                               none        105       28.6       81     39.1       24     15.0
+81  Reason for Snack Preference                                I love eating snacks more than food         34        9.3       18      8.7       16     10.0
+82  Reason for Snack Preference   All my friends eats snacks and I wont want to be called a foodie         18        4.9       10      4.8        8      5.0
+83  Reason for Snack Preference  all my friends eats snacks and I don’t want to be called a foodie         16        4.4       10      4.8        6      3.8
+84  Reason for Snack Preference                         I don’t have enough time to cook good food         14        3.8       13      6.3        1      0.6
+85  Reason for Snack Preference                                         love snacks more than food         13        3.5        8      3.9        5      3.1
+86  Reason for Snack Preference                                           That’s what I can afford         11        3.0        1      0.5       10      6.2
+87  Reason for Snack Preference                                          That's what I can afford           8        2.2        3      1.4        5      3.1
+88  Reason for Snack Preference                                           that's what I can afford          8        2.2        5      2.4        3      1.9
+89  Reason for Snack Preference                            I don’t even have time to eat good food          5        1.4        1      0.5        4      2.5
+90  Reason for Snack Preference                                           That's what I can afford          5        1.4        3      1.4        2      1.2
+91  Reason for Snack Preference                                           that’s what I can afford          4        1.1        4      1.9        0      0.0
+92  Reason for Snack Preference                                                    no time to cook          3        0.8        2      1.0        1      0.6
+93  Reason for Snack Preference                                            Eating food wastes time          3        0.8        0      0.0        3      1.9
+94  Reason for Snack Preference                                I don’t have time to cook good food          3        0.8        2      1.0        1      0.6
+95  Reason for Snack Preference                                                not called a foodie          2        0.5        2      1.0        0      0.0
+96  Reason for Snack Preference                           I don't even have time to cook good food          2        0.5        1      0.5        1      0.6
+97  Reason for Snack Preference                                          no time to cook good food          1        0.3        1      0.5        0      0.0
+98  Reason for Snack Preference                                       I love snacks more than food          1        0.3        1      0.5        0      0.0

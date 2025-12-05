@@ -1,77 +1,100 @@
-# CHAPTER FOUR: RESULTS AND DISCUSSION
+# CHAPTER FOUR: RESULTS
 
 ## 4.1 Introduction
-This chapter presents the results of the analysis of the nutritional status and dietary patterns of adolescent girls in rural and urban areas. The findings are organized into five main sections: socio-demographic characteristics, anthropometric status, dietary assessment, factors affecting dietary habits, and dietary habits. Advanced analysis including logistic regression and cluster analysis is also presented.
+This chapter presents the results of the analysis of the nutritional status and dietary patterns of adolescent girls in rural and urban areas. The findings are organized into four main sections based on the specific objectives: sociodemographic status, prevalence of malnutrition, dietary intake, and factors affecting dietary habits.
 
-## 4.2 Socio-Demographic Characteristics
-The study included a total of 367 adolescent girls, with 207 (56.4%) from urban areas and 160 (43.6%) from rural areas.
+## 4.2 Specific Objective 1: Sociodemographic Status
+The sociodemographic characteristics of the respondents are presented in the following figures.
 
-### 4.2.1 Comparison of Socio-Demographic Variables
-Chi-square analysis revealed significant differences between rural and urban participants in several key socio-demographic variables:
+![Age Distribution](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_a_visualizations/age_distribution.png)
+**Figure 1: Age Distribution of Respondents**
+The age distribution shows that the majority of the respondents were in the 17-19 years age group (53.1%), followed by 14-16 years (36.2%). A similar trend was observed in both urban (55.1%) and rural (50.6%) areas.
 
-*   **Living Arrangement (p < 0.001)**: There was a significant difference in living arrangements. Urban adolescents were more likely to live with both parents compared to their rural counterparts.
-*   **Family Monthly Income (p < 0.001)**: Economic disparity was evident, with urban families reporting significantly higher monthly incomes compared to rural families.
-*   **Parental Occupation**: Both father's occupation (p < 0.001) and mother's occupation (p = 0.015) differed significantly by residence, reflecting the different economic activities in the two settings (e.g., more civil servants/traders in urban vs. farmers/artisans in rural).
-*   **Guardian Education (p = 0.019)**: The educational level of guardians also varied significantly, with urban guardians generally having higher educational attainment.
+![Religious Distribution](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_a_visualizations/religion.png)
+**Figure 2: Religious Distribution**
+The vast majority of the respondents were Christians (98.4%), with very few practicing Traditional religion (1.1%) or Islam (0.5%). This distribution was consistent across both urban and rural settings.
 
-## 4.3 Anthropometric Status
+![Family Monthly Income](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_a_visualizations/family_income.png)
+**Figure 3: Family Monthly Income**
+There was a notable difference in family monthly income. Overall, 62.4% of families earned above 100,000 Naira. However, this was higher in urban areas (70.5%) compared to rural areas (51.9%), indicating a higher economic status among urban families.
 
-### 4.3.1 Body Mass Index (BMI), Weight, and Height
-Table 4.1 summarizes the mean anthropometric measurements for rural and urban adolescent girls.
+![Guardian Education Level](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_a_visualizations/guardian_education.png)
+**Figure 4: Guardian Education Level**
+Regarding guardian education, 56.7% of guardians had tertiary education. This was more prevalent in urban areas (62.8%) compared to rural areas (48.8%), suggesting higher educational attainment among urban guardians.
 
-**Table 4.1: Comparison of Mean Anthropometric Measurements**
-| Variable | Rural Mean ± SD | Urban Mean ± SD | p-value | Significance |
-| :--- | :--- | :--- | :--- | :--- |
-| Weight (kg) | 53.56 | 55.47 | 0.064 | Not Significant |
-| Height (m) | 1.59 | 1.58 | 0.366 | Not Significant |
-| **BMI (kg/m²)** | **21.16** | **22.30** | **0.006** | **Significant** |
+## 4.3 Specific Objective 2: Prevalence of Malnutrition
+The anthropometric status of the adolescents was assessed to determine the prevalence of malnutrition.
 
-The analysis showed that while there were no statistically significant differences in weight and height, **Urban adolescent girls had a significantly higher mean BMI (22.30 kg/m²) compared to rural girls (21.16 kg/m²) (p = 0.006)**. This suggests a trend towards higher body mass relative to height in the urban population.
+![BMI Distribution](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_b_visualizations/bmi_distribution.png)
+**Figure 5: BMI Distribution**
+The distribution of Body Mass Index (BMI) shows the spread of nutritional status among the girls. The mean BMI for the urban population was significantly higher (22.30 kg/m²) compared to the rural population (21.16 kg/m²).
 
-### 4.3.2 BMI Categories
-The prevalence of malnutrition (underweight, overweight, and obesity) was assessed. The distribution of BMI categories showed a borderline significant difference between the two groups (p = 0.051). The trend indicates a higher prevalence of overweight and obesity in the urban area, consistent with the "double burden of malnutrition" often observed in developing urban centers.
+![BMI Categories](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_b_visualizations/bmi_categories.png)
+**Figure 6: BMI Categories**
+The classification of BMI into categories reveals the prevalence of underweight, normal weight, overweight, and obesity. The chart indicates a higher tendency towards overweight and obesity in the urban area, while the rural area has a higher proportion of normal weight and underweight individuals.
 
-## 4.4 Dietary Assessment
+![Anthropometric Measurements](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_b_visualizations/anthropometric_boxplots.png)
+**Figure 7: Anthropometric Measurements (Boxplots)**
+The boxplots provide a comparative view of weight, height, and BMI. While height was similar between the two groups (Urban: 1.58m, Rural: 1.59m), weight and BMI showed greater variation, with urban girls generally having higher values.
 
-### 4.4.1 Dietary Diversity Score (DDS)
-The Dietary Diversity Score (DDS) was calculated based on the consumption of 10 food groups.
+## 4.4 Specific Objective 3: Dietary Intake
+Dietary intake was assessed using dietary diversity scores and food group consumption patterns.
 
-**Table 4.2: Comparison of Dietary Diversity Score**
-| Group | Mean DDS | p-value | Interpretation |
-| :--- | :--- | :--- | :--- |
-| Urban | 9.78 | **0.0002** | **Significantly Higher** |
-| Rural | 9.44 | | |
+![Dietary Patterns (Cluster Profiles)](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/advanced_analysis_visualizations/cluster_profiles.png)
+**Figure 8: Dietary Patterns (Cluster Profiles)**
+Cluster analysis identified distinct dietary patterns. Cluster 1 represents a "Modern/Affluent" diet with high consumption of snacks and dairy. Cluster 2 represents a "Limited" diet, and Cluster 3 represents a "Mixed" diet.
 
-Urban adolescent girls had a significantly higher mean Dietary Diversity Score (9.78) compared to rural girls (9.44) (p < 0.001). This indicates that urban girls consume a wider variety of food groups, likely due to better food access and availability in urban markets.
+![Dietary Diversity Score Analysis](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_c_visualizations/dds_analysis.png)
+**Figure 9: Dietary Diversity Score Analysis**
+The Dietary Diversity Score (DDS) analysis highlights the variety of foods consumed. Urban girls had a higher mean DDS compared to rural girls, indicating a more diverse diet.
 
-### 4.4.2 Dietary Patterns (Cluster Analysis)
-Cluster analysis identified three distinct dietary patterns among the population:
+![Food Group Consumption](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_c_visualizations/food_group_consumption.png)
+**Figure 10: Food Group Consumption**
+Consumption of specific food groups varied. Urban girls had higher mean consumption scores for Snacks (3.75 vs 3.44) and Dairy (3.36 vs 2.96), while rural girls had slightly higher consumption of Tubers (3.00 vs 2.97).
 
-1.  **Cluster 1 "Modern/Affluent Diet" (17.3%)**: Characterized by high consumption of all food groups, particularly Snacks (4.35), Dairy (4.29), and Fruits. This cluster is predominantly **Urban (80.6%)**, reflecting a diet rich in variety but also high in processed foods.
-2.  **Cluster 2 "Limited Diet" (21.7%)**: Characterized by the lowest consumption frequency across all food groups. This cluster is predominantly **Rural (59.0%)**, indicating potential food insecurity or limited access to diverse foods.
-3.  **Cluster 3 "Average/Mixed Diet" (61.0%)**: The largest group with moderate consumption of all food groups. It is fairly balanced but slightly more Urban (56.6%).
+## 4.5 Specific Objective 4: Factors Affecting Dietary Habits
+Various factors influencing dietary habits were identified, along with specific eating behaviors.
 
-## 4.5 Factors Affecting Dietary Habits
-Several factors were identified as significantly influencing the dietary choices of the adolescents:
+![Cost of Food](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_d_visualizations/cost_of_food.png)
+**Figure 11: Influence of Cost of Food**
+Cost of food was a major factor, with 54.0% of respondents strongly agreeing that it affects their choices. This was more pronounced in rural areas (60.0% strongly agree) compared to urban areas (49.3%).
 
-*   **Peer Influence (p = 0.032)**: Peer pressure and social eating habits significantly affect diet, likely more so in urban areas where social eating is more common.
-*   **Health Status (p = 0.012)**: The perception of health and nutritional needs also played a significant role in dietary choices.
+![Food Availability](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_d_visualizations/food_availability.png)
+**Figure 12: Influence of Food Availability**
+Food availability also played a significant role, with 68.4% strongly agreeing. Rural respondents (73.8%) felt this more strongly than urban respondents (64.3%).
 
-## 4.6 Dietary Habits
-Significant differences were observed in the daily eating habits of rural and urban girls:
+![Nutritional Knowledge](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_d_visualizations/nutritional_knowledge.png)
+**Figure 13: Influence of Nutritional Knowledge**
+Nutritional knowledge influenced choices, with 38.7% agreeing and 37.9% strongly agreeing. The distribution was relatively similar across both groups.
 
-*   **Meals per Day (p = 0.008)**: Urban girls were more likely to consume 3 or more meals per day compared to rural girls.
-*   **Meal Skipping (p = 0.017)**: The prevalence of meal skipping differed significantly, with breakfast being the most frequently skipped meal.
-*   **Eating Out (p < 0.001)**: Frequency of eating out was significantly higher in urban areas, contributing to the consumption of energy-dense, nutrient-poor foods.
-*   **Snack Preference (p < 0.001)**: A strong preference for snacks over main meals was observed, particularly in the urban population.
+![Peer Influence](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_d_visualizations/peer_influence.png)
+**Figure 14: Peer Influence**
+Peer influence showed mixed results. A significant portion disagreed (31.6%) or strongly disagreed (29.4%) that peers influenced their diet, though 22.9% agreed.
 
-## 4.7 Discussion
-The results of this study highlight significant disparities in the nutritional status and dietary patterns of adolescent girls in rural and urban Nigeria.
+![Socio-Economic Status](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_d_visualizations/socio-economic_status.png)
+**Figure 15: Influence of Socio-Economic Status**
+Socio-economic status was acknowledged as a factor, with 38.4% strongly agreeing and 37.6% agreeing that it affects their dietary habits.
 
-**Nutritional Status**: The significantly higher BMI in urban girls aligns with the global nutrition transition, where urbanization leads to increased sedentary behavior and consumption of calorie-dense foods. While undernutrition remains a concern in rural areas (as suggested by the "Limited Diet" cluster), the urban population is facing an emerging risk of overweight and obesity.
+![Meals Per Day](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_e_visualizations/meals_per_day.png)
+**Figure 16: Meals Per Day**
+Regarding meal frequency, 42.0% of girls consumed 3 meals per day. This practice was more common in urban areas (46.9%) than in rural areas (35.6%).
 
-**Dietary Patterns**: The higher Dietary Diversity Score in urban areas suggests better micronutrient adequacy potential. However, the cluster analysis reveals that this diversity often comes with increased consumption of snacks and processed foods ("Modern/Affluent Diet"). Conversely, the rural population's lower DDS and dominance in the "Limited Diet" cluster point to a monotonous diet, likely centered on staples with limited access to nutrient-rich foods like dairy and fruits.
+![Meal Skipping](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_e_visualizations/meal_skipping.png)
+**Figure 17: Meal Skipping**
+Meal skipping was prevalent, with 51.8% of respondents reporting that they skip meals. This was higher in rural areas (58.1%) compared to urban areas (46.9%).
 
-**Socio-Economic Influence**: The significant differences in income and parental occupation underscore the role of socio-economic status in determining food access. Higher urban income facilitates access to a diverse diet but also enables the purchase of convenience foods, as seen in the high eating-out frequency.
+![Meal Type Skipped](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_e_visualizations/meal_type_skipped.png)
+**Figure 18: Meal Type Skipped**
+Breakfast was the most frequently skipped meal.
 
-**Conclusion**: The study confirms a "double burden" scenario. Interventions in rural areas should focus on improving food security and diversity, while urban interventions need to address the rising consumption of unhealthy processed foods and snacks to prevent obesity.
+![Reasons for Skipping](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_e_visualizations/reasons_for_skipping.png)
+**Figure 19: Reasons for Skipping Meals**
+The primary reasons for skipping meals were "Not hungry" (18.0%) and "No food available" (9.5%). In rural areas, "No food available" was a more significant reason (18.1%) compared to urban areas (2.9%).
+
+![Eating Out Frequency](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_e_visualizations/eating_out_frequency.png)
+**Figure 20: Frequency of Eating Out**
+Eating out was relatively infrequent, with 22.6% doing so "rarely". However, urban girls ate out more frequently than rural girls.
+
+![Snack Preference](/c:/Users/USER/Desktop/Vivian%20Project/Vivian_analysis/results/section_e_visualizations/snack_preference.png)
+**Figure 21: Snack Preference**
+Most respondents (80.4%) stated they did not prefer snacks over main meals. However, 17.4% did prefer snacks, with a slightly higher percentage in urban areas (19.8%) compared to rural areas (14.4%).
